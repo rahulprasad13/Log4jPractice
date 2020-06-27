@@ -1,0 +1,9 @@
+20:17:30.464 [main] ERROR alpha.Demo - button is not displayed
+20:17:30.466 [main] FATAL alpha.Demo - button is missing
+20:18:06.930 [main] DEBUG alpha.Demo - I have cliecked on button
+20:18:06.933 [main] INFO  alpha.Demo - button is displayed
+20:18:06.933 [main] ERROR alpha.Demo - button is not displayed
+20:18:06.933 [main] FATAL alpha.Demo - button is missing
+20:22:53.264 [main] DEBUG beta.Demo1 - I am debugging
+20:22:53.266 [main] INFO  beta.Demo1 - object is present
+20:22:53.266 [main] ERROR beta.Demo1 - object is not present
